@@ -1,0 +1,1 @@
+In ready valid protocol, there present some non deterministic behavior. We ingnore those non deterministic behavior while calculating the accuracy.  
