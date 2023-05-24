@@ -1,0 +1,1 @@
+This implementation consider 1 Master and 2 slaves and predict rising edge and falling edge of PENABLE signals. 
