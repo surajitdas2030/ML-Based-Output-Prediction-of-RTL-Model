@@ -1,0 +1,2 @@
+1. Train the model in google colab using input data file  "shift.txt" and store the weight in another file "ann_weight_shift8.txt"
+2. "ann_trained_shift.cpp" is the implemented trained model in c that uses "shift.txt" and "ann_weight_shift8.txt" as input.
